@@ -1,4 +1,4 @@
-# Hello! My name is nea :)
+# Hello! My name is roux :)
 I go by like 50 names :P
 
 I enjoy programming things and sometimes writing themes when I feel like it.
